@@ -8,4 +8,3 @@ In addition to my academic work, I'm passionate about developing personal projec
 
 Feel free to check out my repositories and follow my journey as I continue to explore and build in the world of programming! 🏔
 I'm keen on discussing about different ways to improve my projects and programming skills, which is why I'm lookin forward to hearing your advice! 💡
-You can contact me on niccolofaraca@gmail.com. 😊
